@@ -1,0 +1,3 @@
+it is for change the specified process.
+please make sure you insmod ptree.ko
+./change process_name itself/descendants priority policy
